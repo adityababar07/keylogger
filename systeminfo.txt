@@ -1,0 +1,81 @@
+
+Host Name:                 DESKTOP-P80N04G
+OS Name:                   Microsoft Windows 10 Home Single Language
+OS Version:                10.0.18363 N/A Build 18363
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          hacker07
+Registered Organization:   N/A
+Product ID:                00327-35111-33876-AAOEM
+Original Install Date:     12/31/2020, 9:30:39 PM
+System Boot Time:          2/8/2021, 5:26:54 PM
+System Manufacturer:       HP
+System Model:              HP Laptop 15-da0xxx
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 122 Stepping 1 GenuineIntel ~1101 Mhz
+BIOS Version:              Insyde F.23, 11/29/2019
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+Total Physical Memory:     3,911 MB
+Available Physical Memory: 1,494 MB
+Virtual Memory: Max Size:  19,271 MB
+Virtual Memory: Available: 16,434 MB
+Virtual Memory: In Use:    2,837 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-P80N04G
+Hotfix(s):                 17 Hotfix(s) Installed.
+                           [01]: KB4580980
+                           [02]: KB4497165
+                           [03]: KB4513661
+                           [04]: KB4516115
+                           [05]: KB4517245
+                           [06]: KB4521863
+                           [07]: KB4528759
+                           [08]: KB4537759
+                           [09]: KB4538674
+                           [10]: KB4541338
+                           [11]: KB4552152
+                           [12]: KB4560959
+                           [13]: KB4561600
+                           [14]: KB4565554
+                           [15]: KB4576751
+                           [16]: KB4580325
+                           [17]: KB4586863
+Network Card(s):           5 NIC(s) Installed.
+                           [01]: Realtek RTL8723DE 802.11b/g/n PCIe Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.225.1
+                                 IP address(es)
+                                 [01]: 192.168.225.204
+                                 [02]: fe80::cd3b:e80b:4b8d:20f6
+                                 [03]: 2409:4042:ea3:44f1:255e:cba6:a949:aad4
+                                 [04]: 2409:4042:ea3:44f1:cd3b:e80b:4b8d:20f6
+                           [02]: Realtek PCIe GbE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+                           [04]: VMware Virtual Ethernet Adapter for VMnet1
+                                 Connection Name: VMware Network Adapter VMnet1
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.150.254
+                                 IP address(es)
+                                 [01]: 192.168.150.1
+                                 [02]: fe80::d8d3:ad58:22da:9331
+                           [05]: VMware Virtual Ethernet Adapter for VMnet8
+                                 Connection Name: VMware Network Adapter VMnet8
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.189.254
+                                 IP address(es)
+                                 [01]: 192.168.189.1
+                                 [02]: fe80::d186:f490:230d:89ee
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
