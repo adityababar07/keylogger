@@ -17,6 +17,7 @@ def main():
         command = clientsocket.recv(2048).decode()
         if command == "exit":
             command.close()
+            s.close()
             exit()
         else:
             print(command)
@@ -47,4 +48,4 @@ except Exception as err:
     error = subprocess.check_output('type error.txt', shell=True)
     clientsocket.send(error)
     main()
-s.close()
+    
