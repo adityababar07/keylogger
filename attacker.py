@@ -7,15 +7,17 @@ try:
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.connect((ip, port))
 
-    commands = input("$")
-
-    while commands != 'exit':
-        s.send(commands.encode())
-        result = s.recv(2048).decode()
-        print(result)
+    while True:
         commands = input("$")
-    s.close()
+        if commands == "exit":
+            s.close()
+            exit()
+        else:
+            s.send(commands.encode())
+            result = s.recv(2048).decode()
+            print(result)
 except:
-    print("Something unusal has happened!!")
+    print('''Something unusal has happened!!
+            session closed!!!''')
 
 
